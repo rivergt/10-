@@ -1,4 +1,7 @@
 #猜数字游戏2.0版本【20191018AM11:25】
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import random
 answer = random.randint(1,10)
 print("我爱猜数字游戏2.0版本")
